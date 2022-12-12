@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pemutar Lagu</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="album">My First Love</string>
+    <string name="genre">Childrens Music, Pop, J-Pop, Indonesian Pop</string>
+    <string name="tahun_rilis">2009</string>
+    <string name="artis">Vierratale</string>
+
+    <string-array name="lagu">
+        <item>Dont Look Back In Anger</item>
+        <item>Eight</item>
+        <item>Stuck</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.8</item>
+        <item>4.8</item>
+        <item>4.8</item>
+    </string-array>
+    <string-array name="artis">
+        <item>Oasis</item>
+        <item>IU</item>
+        <item>Justin ft Ariana</item>
+    </string-array>
+</resources>
